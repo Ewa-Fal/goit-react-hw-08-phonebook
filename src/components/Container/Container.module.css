@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    background-color: bisque;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 10px 13px -7px #000000;
+    min-height: 484px;
+  }

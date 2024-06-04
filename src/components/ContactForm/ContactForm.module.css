@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 70px;
+  }
+  
+  .input {
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    width: 180px;
+    background-color: silver;
+  }
+  .btn {
+    background-color: slategrey;
+    border: none;
+    padding: 15px 20px;
+    color: cyan;
+    text-transform: uppercase;
+    border-radius: 7px;
+    font-weight: 700;
+    box-shadow: 0px 10px 13px -7px #000000;
+  }
+  .btn:hover,
+  .btn:focus {
+    background-color: cyan;
+    color: slategrey;
+  }

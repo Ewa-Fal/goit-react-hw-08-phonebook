@@ -1,0 +1,37 @@
+.list {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    height: 310px;
+  }
+  .item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .num {
+    color: black;
+    margin-left: 5px;
+  }
+  .text {
+    margin-right: 20px;
+    color: navy;
+  }
+  .btn {
+    background-color: orange;
+    color: black;
+    border: none;
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    box-shadow: 0px 10px 13px -7px #000000;
+  }
+  .btn:hover,
+  .btn:focus {
+    background-color: cornflowerblue;
+  }

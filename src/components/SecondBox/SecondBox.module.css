@@ -1,0 +1,13 @@
+.box {
+    background-color: antiquewhite;
+    padding: 40px;
+    padding-top: 50px;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+  }
+  .title {
+    letter-spacing: 1px;
+  }

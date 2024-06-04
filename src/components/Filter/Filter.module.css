@@ -1,0 +1,10 @@
+.input {
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    width: 180px;
+    background-color: silver;
+  }
+  .title {
+    color: black;
+    font-weight: 700;
+  }
